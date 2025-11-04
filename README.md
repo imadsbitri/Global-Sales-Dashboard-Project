@@ -37,22 +37,13 @@ All cleaning and transformation were handled using **PostgreSQL**:
 **4️⃣ Dashboard Design**
 Developed a dynamic, interactive **Power BI dashboard** featuring:
 - **KPI cards** for total sales, profit, and discount trends  
-- **Map visualization** to display revenue distribution by country  
-- **Bar/Column charts** for top products, store performance, and sales reps  
+- **Map visualization** to display Sales by country  
+- **Bar/Column charts** for Daily Sales  
 - **Date slicer** for time-based analysis  
 - **DAX measures** for dynamic calculations (Total Sales, Total Profit, Average Revenue, etc.)
 
 ---
 
-### 📊 Key Insights
-- **Highest Revenue:** [Example] USA led total revenue during the analyzed period.  
-- **Top Products:** Revealed top 5 best-selling products globally.  
-- **Sales Reps:** Identified top performers driving major sales.  
-- **Profitable Stores:** Highlighted key locations contributing to profit growth.  
-
-*(Exact insights can be adjusted once final dashboard screenshots are added.)*
-
----
 
 ### 🧮 Tools & Technologies
 | Category | Tool |
