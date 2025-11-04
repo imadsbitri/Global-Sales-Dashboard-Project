@@ -1,4 +1,4 @@
-# 🌍 Global Sales Dashboard – Power BI & SQL Project
+# 🌍 Global Sales Dashboard – Excel, SQL & Power BI Project
 
 ### 🧩 Overview
 This project analyzes sales performance across **six countries** —  USA, UK, Canada, Nigeria, India, and China.  
